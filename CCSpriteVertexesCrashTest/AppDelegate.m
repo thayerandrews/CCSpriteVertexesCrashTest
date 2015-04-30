@@ -27,7 +27,9 @@
     CCSpriteVertexes broken = CCSpriteVertexesInit();
 
 #if TEST_WITH_DIRECT_METHOD_CALLS
-    NSLog(@"Starting the test cases using method calls.");
+    NSLog(@"Starting the test cases:");
+    NSLog(@"  - Direct method calls");
+    NSLog(@"  - Mock Cocos2D structs");
     
     NSLog(@"Executing a broken assignment.");
     [mtc setVerts:broken];
@@ -35,7 +37,9 @@
     
     NSLog(@"We made it past the error case! Huzzah!");
 #else
-    NSLog(@"Starting the test cases using property assignment.");
+    NSLog(@"Starting the test cases:");
+    NSLog(@"  - Property assignment");
+    NSLog(@"  - Mock Cocos2D structs");
     
     NSLog(@"Executing a broken assignment.");
     mtc.verts = broken;
@@ -53,7 +57,9 @@
     NSLog(@"Your broken structure is %lu bytes large.", sizeof(broken));
     
 #if TEST_WITH_DIRECT_METHOD_CALLS
-    NSLog(@"Starting the test cases using method calls.");
+    NSLog(@"Starting the test cases:");
+    NSLog(@"  - Direct method calls");
+    NSLog(@"  - Simplified test structs");
 
     NSLog(@"Executing a working assignment (1).");
     [mtc setWorking1:working1];
@@ -69,7 +75,9 @@
     
     NSLog(@"We made it past the error case! Huzzah!");
 #else
-    NSLog(@"Starting the test cases using property assignment.");
+    NSLog(@"Starting the test cases:");
+    NSLog(@"  - Property assignment");
+    NSLog(@"  - Simplified test structs");
 
     NSLog(@"Executing a working assignment (1).");
     mtc.working1 = working1;
