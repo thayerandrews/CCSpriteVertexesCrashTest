@@ -10,6 +10,42 @@
 		9D83D4BF1AF2860000D978CA /* GLKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9D83D4BE1AF2860000D978CA /* GLKit.framework */; };
 		9D83D4C21AF2863400D978CA /* MyTestClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 9D83D4C11AF2863400D978CA /* MyTestClass.m */; };
 		9D83D4CE1AF2A40500D978CA /* MyStructTypes.m in Sources */ = {isa = PBXBuildFile; fileRef = 9D83D4CD1AF2A40500D978CA /* MyStructTypes.m */; };
+		9D83D4D11AF2B10500D978CA /* MyTestClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 9D83D4C11AF2863400D978CA /* MyTestClass.m */; };
+		9D83D4D21AF2B10500D978CA /* MyStructTypes.m in Sources */ = {isa = PBXBuildFile; fileRef = 9D83D4CD1AF2A40500D978CA /* MyStructTypes.m */; };
+		9D83D4D31AF2B10500D978CA /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9DEF7B5E1AF284720032BD2E /* ViewController.m */; };
+		9D83D4D41AF2B10500D978CA /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 9DEF7B5B1AF284720032BD2E /* AppDelegate.m */; };
+		9D83D4D51AF2B10500D978CA /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 9DEF7B581AF284720032BD2E /* main.m */; };
+		9D83D4D71AF2B10500D978CA /* GLKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9D83D4BE1AF2860000D978CA /* GLKit.framework */; };
+		9D83D4D91AF2B10500D978CA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9DEF7B601AF284720032BD2E /* Main.storyboard */; };
+		9D83D4DA1AF2B10500D978CA /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9DEF7B651AF284720032BD2E /* LaunchScreen.xib */; };
+		9D83D4DB1AF2B10500D978CA /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9DEF7B631AF284720032BD2E /* Images.xcassets */; };
+		9DE935F61AF2B3DF0082B161 /* MyTestClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 9D83D4C11AF2863400D978CA /* MyTestClass.m */; };
+		9DE935F71AF2B3DF0082B161 /* MyStructTypes.m in Sources */ = {isa = PBXBuildFile; fileRef = 9D83D4CD1AF2A40500D978CA /* MyStructTypes.m */; };
+		9DE935F81AF2B3DF0082B161 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9DEF7B5E1AF284720032BD2E /* ViewController.m */; };
+		9DE935F91AF2B3DF0082B161 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 9DEF7B5B1AF284720032BD2E /* AppDelegate.m */; };
+		9DE935FA1AF2B3DF0082B161 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 9DEF7B581AF284720032BD2E /* main.m */; };
+		9DE935FC1AF2B3DF0082B161 /* GLKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9D83D4BE1AF2860000D978CA /* GLKit.framework */; };
+		9DE935FE1AF2B3DF0082B161 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9DEF7B601AF284720032BD2E /* Main.storyboard */; };
+		9DE935FF1AF2B3DF0082B161 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9DEF7B651AF284720032BD2E /* LaunchScreen.xib */; };
+		9DE936001AF2B3DF0082B161 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9DEF7B631AF284720032BD2E /* Images.xcassets */; };
+		9DE936081AF2B47D0082B161 /* MyTestClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 9D83D4C11AF2863400D978CA /* MyTestClass.m */; };
+		9DE936091AF2B47D0082B161 /* MyStructTypes.m in Sources */ = {isa = PBXBuildFile; fileRef = 9D83D4CD1AF2A40500D978CA /* MyStructTypes.m */; };
+		9DE9360A1AF2B47D0082B161 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9DEF7B5E1AF284720032BD2E /* ViewController.m */; };
+		9DE9360B1AF2B47D0082B161 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 9DEF7B5B1AF284720032BD2E /* AppDelegate.m */; };
+		9DE9360C1AF2B47D0082B161 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 9DEF7B581AF284720032BD2E /* main.m */; };
+		9DE9360E1AF2B47D0082B161 /* GLKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9D83D4BE1AF2860000D978CA /* GLKit.framework */; };
+		9DE936101AF2B47D0082B161 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9DEF7B601AF284720032BD2E /* Main.storyboard */; };
+		9DE936111AF2B47D0082B161 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9DEF7B651AF284720032BD2E /* LaunchScreen.xib */; };
+		9DE936121AF2B47D0082B161 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9DEF7B631AF284720032BD2E /* Images.xcassets */; };
+		9DE9361A1AF2B5310082B161 /* MyTestClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 9D83D4C11AF2863400D978CA /* MyTestClass.m */; };
+		9DE9361B1AF2B5310082B161 /* MyStructTypes.m in Sources */ = {isa = PBXBuildFile; fileRef = 9D83D4CD1AF2A40500D978CA /* MyStructTypes.m */; };
+		9DE9361C1AF2B5310082B161 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9DEF7B5E1AF284720032BD2E /* ViewController.m */; };
+		9DE9361D1AF2B5310082B161 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 9DEF7B5B1AF284720032BD2E /* AppDelegate.m */; };
+		9DE9361E1AF2B5310082B161 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 9DEF7B581AF284720032BD2E /* main.m */; };
+		9DE936201AF2B5310082B161 /* GLKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9D83D4BE1AF2860000D978CA /* GLKit.framework */; };
+		9DE936221AF2B5310082B161 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9DEF7B601AF284720032BD2E /* Main.storyboard */; };
+		9DE936231AF2B5310082B161 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9DEF7B651AF284720032BD2E /* LaunchScreen.xib */; };
+		9DE936241AF2B5310082B161 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9DEF7B631AF284720032BD2E /* Images.xcassets */; };
 		9DEF7B591AF284720032BD2E /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 9DEF7B581AF284720032BD2E /* main.m */; };
 		9DEF7B5C1AF284720032BD2E /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 9DEF7B5B1AF284720032BD2E /* AppDelegate.m */; };
 		9DEF7B5F1AF284720032BD2E /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9DEF7B5E1AF284720032BD2E /* ViewController.m */; };
@@ -36,6 +72,14 @@
 		9D83D4C31AF2865800D978CA /* MyStructTypes.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MyStructTypes.h; sourceTree = "<group>"; };
 		9D83D4CC1AF29E0100D978CA /* MyTestConfig.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MyTestConfig.h; sourceTree = "<group>"; };
 		9D83D4CD1AF2A40500D978CA /* MyStructTypes.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyStructTypes.m; sourceTree = "<group>"; };
+		9D83D4DF1AF2B10500D978CA /* MockCCStructsDirectMethodCalls.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MockCCStructsDirectMethodCalls.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		9D83D4E01AF2B10500D978CA /* MockCCStructsDirectMethodCalls-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "MockCCStructsDirectMethodCalls-Info.plist"; path = "/Users/thayer/projects/Experiments/CCSpriteVertexesCrashTest/MockCCStructsDirectMethodCalls-Info.plist"; sourceTree = "<absolute>"; };
+		9DE936041AF2B3DF0082B161 /* MockCCStructsPropertyAssignment.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MockCCStructsPropertyAssignment.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		9DE936051AF2B3DF0082B161 /* MockCCStructsPropertyAssignment-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "MockCCStructsPropertyAssignment-Info.plist"; path = "/Users/thayer/projects/Experiments/CCSpriteVertexesCrashTest/MockCCStructsPropertyAssignment-Info.plist"; sourceTree = "<absolute>"; };
+		9DE936161AF2B47D0082B161 /* SimpleStructsDirectMethodCalls.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SimpleStructsDirectMethodCalls.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		9DE936171AF2B47D0082B161 /* SimpleStructsDirectMethodCalls-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "SimpleStructsDirectMethodCalls-Info.plist"; path = "/Users/thayer/projects/Experiments/CCSpriteVertexesCrashTest/SimpleStructsDirectMethodCalls-Info.plist"; sourceTree = "<absolute>"; };
+		9DE936281AF2B5310082B161 /* SimpleStructsPropertyAssignment.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SimpleStructsPropertyAssignment.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		9DE936291AF2B5310082B161 /* SimpleStructsPropertyAssignment-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "SimpleStructsPropertyAssignment-Info.plist"; path = "/Users/thayer/projects/Experiments/CCSpriteVertexesCrashTest/SimpleStructsPropertyAssignment-Info.plist"; sourceTree = "<absolute>"; };
 		9DEF7B531AF284720032BD2E /* CCSpriteVertexesCrashTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CCSpriteVertexesCrashTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9DEF7B571AF284720032BD2E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9DEF7B581AF284720032BD2E /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -52,6 +96,38 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
+		9D83D4D61AF2B10500D978CA /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9D83D4D71AF2B10500D978CA /* GLKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9DE935FB1AF2B3DF0082B161 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9DE935FC1AF2B3DF0082B161 /* GLKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9DE9360D1AF2B47D0082B161 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9DE9360E1AF2B47D0082B161 /* GLKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9DE9361F1AF2B5310082B161 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9DE936201AF2B5310082B161 /* GLKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		9DEF7B501AF284720032BD2E /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -78,6 +154,10 @@
 				9DEF7B551AF284720032BD2E /* CCSpriteVertexesCrashTest */,
 				9DEF7B6F1AF284720032BD2E /* CCSpriteVertexesCrashTestTests */,
 				9DEF7B541AF284720032BD2E /* Products */,
+				9D83D4E01AF2B10500D978CA /* MockCCStructsDirectMethodCalls-Info.plist */,
+				9DE936051AF2B3DF0082B161 /* MockCCStructsPropertyAssignment-Info.plist */,
+				9DE936171AF2B47D0082B161 /* SimpleStructsDirectMethodCalls-Info.plist */,
+				9DE936291AF2B5310082B161 /* SimpleStructsPropertyAssignment-Info.plist */,
 			);
 			sourceTree = "<group>";
 		};
@@ -86,6 +166,10 @@
 			children = (
 				9DEF7B531AF284720032BD2E /* CCSpriteVertexesCrashTest.app */,
 				9DEF7B6C1AF284720032BD2E /* CCSpriteVertexesCrashTestTests.xctest */,
+				9D83D4DF1AF2B10500D978CA /* MockCCStructsDirectMethodCalls.app */,
+				9DE936041AF2B3DF0082B161 /* MockCCStructsPropertyAssignment.app */,
+				9DE936161AF2B47D0082B161 /* SimpleStructsDirectMethodCalls.app */,
+				9DE936281AF2B5310082B161 /* SimpleStructsPropertyAssignment.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -138,6 +222,74 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
+		9D83D4CF1AF2B10500D978CA /* MockCCStructsDirectMethodCalls */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9D83D4DC1AF2B10500D978CA /* Build configuration list for PBXNativeTarget "MockCCStructsDirectMethodCalls" */;
+			buildPhases = (
+				9D83D4D01AF2B10500D978CA /* Sources */,
+				9D83D4D61AF2B10500D978CA /* Frameworks */,
+				9D83D4D81AF2B10500D978CA /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = MockCCStructsDirectMethodCalls;
+			productName = CCSpriteVertexesCrashTest;
+			productReference = 9D83D4DF1AF2B10500D978CA /* MockCCStructsDirectMethodCalls.app */;
+			productType = "com.apple.product-type.application";
+		};
+		9DE935F41AF2B3DF0082B161 /* MockCCStructsPropertyAssignment */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9DE936011AF2B3DF0082B161 /* Build configuration list for PBXNativeTarget "MockCCStructsPropertyAssignment" */;
+			buildPhases = (
+				9DE935F51AF2B3DF0082B161 /* Sources */,
+				9DE935FB1AF2B3DF0082B161 /* Frameworks */,
+				9DE935FD1AF2B3DF0082B161 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = MockCCStructsPropertyAssignment;
+			productName = CCSpriteVertexesCrashTest;
+			productReference = 9DE936041AF2B3DF0082B161 /* MockCCStructsPropertyAssignment.app */;
+			productType = "com.apple.product-type.application";
+		};
+		9DE936061AF2B47D0082B161 /* SimpleStructsDirectMethodCalls */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9DE936131AF2B47D0082B161 /* Build configuration list for PBXNativeTarget "SimpleStructsDirectMethodCalls" */;
+			buildPhases = (
+				9DE936071AF2B47D0082B161 /* Sources */,
+				9DE9360D1AF2B47D0082B161 /* Frameworks */,
+				9DE9360F1AF2B47D0082B161 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = SimpleStructsDirectMethodCalls;
+			productName = CCSpriteVertexesCrashTest;
+			productReference = 9DE936161AF2B47D0082B161 /* SimpleStructsDirectMethodCalls.app */;
+			productType = "com.apple.product-type.application";
+		};
+		9DE936181AF2B5310082B161 /* SimpleStructsPropertyAssignment */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9DE936251AF2B5310082B161 /* Build configuration list for PBXNativeTarget "SimpleStructsPropertyAssignment" */;
+			buildPhases = (
+				9DE936191AF2B5310082B161 /* Sources */,
+				9DE9361F1AF2B5310082B161 /* Frameworks */,
+				9DE936211AF2B5310082B161 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = SimpleStructsPropertyAssignment;
+			productName = CCSpriteVertexesCrashTest;
+			productReference = 9DE936281AF2B5310082B161 /* SimpleStructsPropertyAssignment.app */;
+			productType = "com.apple.product-type.application";
+		};
 		9DEF7B521AF284720032BD2E /* CCSpriteVertexesCrashTest */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = 9DEF7B761AF284720032BD2E /* Build configuration list for PBXNativeTarget "CCSpriteVertexesCrashTest" */;
@@ -206,11 +358,55 @@
 			targets = (
 				9DEF7B521AF284720032BD2E /* CCSpriteVertexesCrashTest */,
 				9DEF7B6B1AF284720032BD2E /* CCSpriteVertexesCrashTestTests */,
+				9D83D4CF1AF2B10500D978CA /* MockCCStructsDirectMethodCalls */,
+				9DE935F41AF2B3DF0082B161 /* MockCCStructsPropertyAssignment */,
+				9DE936061AF2B47D0082B161 /* SimpleStructsDirectMethodCalls */,
+				9DE936181AF2B5310082B161 /* SimpleStructsPropertyAssignment */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
+		9D83D4D81AF2B10500D978CA /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9D83D4D91AF2B10500D978CA /* Main.storyboard in Resources */,
+				9D83D4DA1AF2B10500D978CA /* LaunchScreen.xib in Resources */,
+				9D83D4DB1AF2B10500D978CA /* Images.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9DE935FD1AF2B3DF0082B161 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9DE935FE1AF2B3DF0082B161 /* Main.storyboard in Resources */,
+				9DE935FF1AF2B3DF0082B161 /* LaunchScreen.xib in Resources */,
+				9DE936001AF2B3DF0082B161 /* Images.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9DE9360F1AF2B47D0082B161 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9DE936101AF2B47D0082B161 /* Main.storyboard in Resources */,
+				9DE936111AF2B47D0082B161 /* LaunchScreen.xib in Resources */,
+				9DE936121AF2B47D0082B161 /* Images.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9DE936211AF2B5310082B161 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9DE936221AF2B5310082B161 /* Main.storyboard in Resources */,
+				9DE936231AF2B5310082B161 /* LaunchScreen.xib in Resources */,
+				9DE936241AF2B5310082B161 /* Images.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		9DEF7B511AF284720032BD2E /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -231,6 +427,54 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
+		9D83D4D01AF2B10500D978CA /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9D83D4D11AF2B10500D978CA /* MyTestClass.m in Sources */,
+				9D83D4D21AF2B10500D978CA /* MyStructTypes.m in Sources */,
+				9D83D4D31AF2B10500D978CA /* ViewController.m in Sources */,
+				9D83D4D41AF2B10500D978CA /* AppDelegate.m in Sources */,
+				9D83D4D51AF2B10500D978CA /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9DE935F51AF2B3DF0082B161 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9DE935F61AF2B3DF0082B161 /* MyTestClass.m in Sources */,
+				9DE935F71AF2B3DF0082B161 /* MyStructTypes.m in Sources */,
+				9DE935F81AF2B3DF0082B161 /* ViewController.m in Sources */,
+				9DE935F91AF2B3DF0082B161 /* AppDelegate.m in Sources */,
+				9DE935FA1AF2B3DF0082B161 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9DE936071AF2B47D0082B161 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9DE936081AF2B47D0082B161 /* MyTestClass.m in Sources */,
+				9DE936091AF2B47D0082B161 /* MyStructTypes.m in Sources */,
+				9DE9360A1AF2B47D0082B161 /* ViewController.m in Sources */,
+				9DE9360B1AF2B47D0082B161 /* AppDelegate.m in Sources */,
+				9DE9360C1AF2B47D0082B161 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9DE936191AF2B5310082B161 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9DE9361A1AF2B5310082B161 /* MyTestClass.m in Sources */,
+				9DE9361B1AF2B5310082B161 /* MyStructTypes.m in Sources */,
+				9DE9361C1AF2B5310082B161 /* ViewController.m in Sources */,
+				9DE9361D1AF2B5310082B161 /* AppDelegate.m in Sources */,
+				9DE9361E1AF2B5310082B161 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		9DEF7B4F1AF284720032BD2E /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -281,6 +525,106 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
+		9D83D4DD1AF2B10500D978CA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					"TEST_WITH_DIRECT_METHOD_CALLS=1",
+					"TEST_WITH_MOCK_CC_STRUCTS=1",
+				);
+				INFOPLIST_FILE = "MockCCStructsDirectMethodCalls-Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = MockCCStructsDirectMethodCalls;
+			};
+			name = Debug;
+		};
+		9D83D4DE1AF2B10500D978CA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "MockCCStructsDirectMethodCalls-Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = MockCCStructsDirectMethodCalls;
+			};
+			name = Release;
+		};
+		9DE936021AF2B3DF0082B161 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					"TEST_WITH_DIRECT_METHOD_CALLS=0",
+					"TEST_WITH_MOCK_CC_STRUCTS=1",
+				);
+				INFOPLIST_FILE = "MockCCStructsPropertyAssignment-Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = MockCCStructsPropertyAssignment;
+			};
+			name = Debug;
+		};
+		9DE936031AF2B3DF0082B161 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "MockCCStructsPropertyAssignment-Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = MockCCStructsPropertyAssignment;
+			};
+			name = Release;
+		};
+		9DE936141AF2B47D0082B161 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					"TEST_WITH_DIRECT_METHOD_CALLS=1",
+					"TEST_WITH_MOCK_CC_STRUCTS=0",
+				);
+				INFOPLIST_FILE = "SimpleStructsDirectMethodCalls-Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = SimpleStructsDirectMethodCalls;
+			};
+			name = Debug;
+		};
+		9DE936151AF2B47D0082B161 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "SimpleStructsDirectMethodCalls-Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = SimpleStructsDirectMethodCalls;
+			};
+			name = Release;
+		};
+		9DE936261AF2B5310082B161 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					"TEST_WITH_DIRECT_METHOD_CALLS=0",
+					"TEST_WITH_MOCK_CC_STRUCTS=0",
+				);
+				INFOPLIST_FILE = "SimpleStructsPropertyAssignment-Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = SimpleStructsPropertyAssignment;
+			};
+			name = Debug;
+		};
+		9DE936271AF2B5310082B161 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "SimpleStructsPropertyAssignment-Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = SimpleStructsPropertyAssignment;
+			};
+			name = Release;
+		};
 		9DEF7B741AF284720032BD2E /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -420,6 +764,42 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
+		9D83D4DC1AF2B10500D978CA /* Build configuration list for PBXNativeTarget "MockCCStructsDirectMethodCalls" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9D83D4DD1AF2B10500D978CA /* Debug */,
+				9D83D4DE1AF2B10500D978CA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9DE936011AF2B3DF0082B161 /* Build configuration list for PBXNativeTarget "MockCCStructsPropertyAssignment" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9DE936021AF2B3DF0082B161 /* Debug */,
+				9DE936031AF2B3DF0082B161 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9DE936131AF2B47D0082B161 /* Build configuration list for PBXNativeTarget "SimpleStructsDirectMethodCalls" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9DE936141AF2B47D0082B161 /* Debug */,
+				9DE936151AF2B47D0082B161 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9DE936251AF2B5310082B161 /* Build configuration list for PBXNativeTarget "SimpleStructsPropertyAssignment" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9DE936261AF2B5310082B161 /* Debug */,
+				9DE936271AF2B5310082B161 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		9DEF7B4E1AF284720032BD2E /* Build configuration list for PBXProject "CCSpriteVertexesCrashTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
